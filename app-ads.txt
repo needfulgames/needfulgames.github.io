@@ -4,6 +4,9 @@ facebook.com, 303626998534449, RESELLER, c3e20eee3f780d68
 facebook.com, 698269071292355, RESELLER, c3e20eee3f780d68
 facebook.com, 716508369479311, RESELLER, c3e20eee3f780d68
 
+#SwimsuitShop
+facebook.com, 2910333102601965, RESELLER, с3e20eee3f780d68 
+                        
  
 #Facebook Ad Network
 facebook.com, 911489465574629, RESELLER, c3e20eee3f780d68
