@@ -5,7 +5,6 @@ facebook.com, 698269071292355, RESELLER, c3e20eee3f780d68
 facebook.com, 716508369479311, RESELLER, c3e20eee3f780d68
 facebook.com, 742093040549895, RESELLER, c3e20eee3f780d68
 facebook.com, 1175668363279032, RESELLER, c3e20eee3f780d68
-facebook.com, 2758816081090719, RESELLER, c3e20eee3f780d68
 facebook.com, 2910333102601965, RESELLER, с3e20eee3f780d68
 facebook.com, 501225748475389, RESELLER, с3e20eee3f780d68
 facebook.com, 1175668363279032, RESELLER, с3e20eee3f780d68
@@ -18,6 +17,9 @@ facebook.com, 599721755124277, RESELLER, с3e20eee3f780d68
 
 #SwimsuitShop
 facebook.com, 2910333102601965, RESELLER, с3e20eee3f780d68 
+
+#LingerieShop
+facebook.com, 2758816081090719, RESELLER, c3e20eee3f780d68
                         
  
 #Facebook Ad Network
