@@ -33,6 +33,9 @@ facebook.com, 428076072860780, RESELLER, с3e20eee3f780d68
 #Idle Barrack
 facebook.com, 1171836273745798, RESELLER, с3e20eee3f780d68
 
+#Idle Credit Card
+facebook.com, 522592466584658, RESELLER, с3e20eee3f780d68
+
 
 
 #Facebook Ad Network
